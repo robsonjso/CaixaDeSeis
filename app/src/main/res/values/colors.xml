@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="corVinho">#590104</color>
+    <color name="corVinhoDark">#3d0103</color>
+    <color name="blue">#1866f5</color>
+    <color name="grey">#c2c1c0</color>
+    <color name="orange">#f0580c</color>
+
+
+
+
+
+</resources>

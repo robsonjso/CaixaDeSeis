@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">boccati</string>
+    <string name="facebook_app_id">3759281910983216</string>
+    <string name="fb_login_protocol_scheme">90031d6a0310f88d981371281e9ea910</string>
+    <string name="facebook_client_token">pKAMBwKonbZxEsavnIvfBNXdrmE=</string>
+    <string name="web_client_id">238939739031-1cbrjngoh9569923se2j0ncjnci8pf5f.apps.googleusercontent.com</string>
+</resources>
